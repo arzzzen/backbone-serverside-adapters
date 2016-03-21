@@ -14,9 +14,10 @@
     "cheerio"
   ],
   "dependencies": {
-    "xmlhttprequest": "~1.6.0",
+    "qs": "^6.1.0",
     "underscore": "~1.6.0",
-    "underscore.deferred": "~0.4.0"
+    "underscore.deferred": "~0.4.0",
+    "xmlhttprequest": "~1.6.0"
   },
   "engines": {
     "node": "*"
